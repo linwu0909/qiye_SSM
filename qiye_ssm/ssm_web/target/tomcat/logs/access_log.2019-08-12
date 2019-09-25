@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web HTTP/1.1" 302 - http-bio-8888-exec-2 0
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/ HTTP/1.1" 302 - http-bio-8888-exec-3 83
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/login.jsp HTTP/1.1" 200 2633 http-bio-8888-exec-4 128
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/ionicons/css/ionicons.min.css HTTP/1.1" 200 51284 http-bio-8888-exec-8 13
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/adminLTE/css/AdminLTE.css HTTP/1.1" 200 110374 http-bio-8888-exec-7 17
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/iCheck/square/blue.css HTTP/1.1" 200 1611 http-bio-8888-exec-6 14
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31000 http-bio-8888-exec-5 20
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 121237 http-bio-8888-exec-9 11
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/jQuery/jquery-2.2.3.min.js HTTP/1.1" 200 85659 http-bio-8888-exec-10 9
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 37045 http-bio-8888-exec-6 5
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:29 +0800] "GET /heima_ssm_web/plugins/iCheck/icheck.min.js HTTP/1.1" 200 4516 http-bio-8888-exec-8 3
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:30 +0800] "GET /heima_ssm_web/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028 http-bio-8888-exec-8 3
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:30 +0800] "GET /heima_ssm_web/plugins/iCheck/square/blue.png HTTP/1.1" 200 2185 http-bio-8888-exec-8 2
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:38:30 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-8 0
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:48:48 +0800] "POST /heima_ssm_web/login.do HTTP/1.1" 302 - http-bio-8888-exec-8 599399
+0:0:0:0:0:0:0:1 - - [12/Aug/2019:15:48:48 +0800] "POST /heima_ssm_web/login.do HTTP/1.1" 302 - http-bio-8888-exec-6 598124
